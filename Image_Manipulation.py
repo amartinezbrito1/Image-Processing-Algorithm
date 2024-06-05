@@ -1,9 +1,4 @@
 # -*- coding: utf-8 -*-
-"""
-Created on Thu Oct 12 16:40:50 2023
-
-@author: Heather Watson
-"""
 
 import PIL
 from PIL import Image
