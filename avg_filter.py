@@ -1,10 +1,4 @@
 # -*- coding: utf-8 -*-
-"""
-Yuka Nagayoshi
-Final Project
-Due December 4th
-Average filtering function for noise reduction
-"""
 
 import PIL
 from PIL import Image
